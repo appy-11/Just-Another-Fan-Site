@@ -1,0 +1,78 @@
+
+/* Main Image*/
+
+.main-img:hover{ 
+background-color: #b2ad7f ;
+opacity: 50%;
+}
+
+/*Band-Section*/
+
+.band-section{
+  text-align: center;
+  margin:0 auto;
+  width:100%;
+  padding: 100px;
+  top:0;
+  left:0;
+  right: 0;
+}
+
+#pics:hover{
+background-color: #b2ad7f ;
+opacity: 50%;  
+}
+/*Tour-Section*/
+ 
+.tour{
+    text-align: center;
+    background-color: #333;
+    color: #fff ;
+}
+
+.tour-text{
+    padding-top: 5%;
+}
+
+.tour-image{
+    width: 50%;
+    margin: 20px;
+}
+
+/*Contact-Section */
+.contact-section{
+  text-align: center;
+  margin:0 auto;
+  width:100%;
+  padding: 100px;
+  top:0;
+  left:0;
+  right: 0;
+}
+
+.info{
+    text-align: left;
+    
+
+}
+#button{
+    border-radius: 0%
+}
+.message{
+    padding-top: 3%;
+}
+
+/*Footer*/
+.container-fluid{
+  padding: 7%; 15%;
+}
+#footer{
+    text-align: center;
+}
+.social-icon{
+    margin: 20px 10px;
+    font-size:
+}
+.social-icon:hover{
+    color: #ff4c68;
+}
